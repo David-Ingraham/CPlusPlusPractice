@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>			//first attempt to use tree method for finding prime factors, it works for some numbers 
 using namespace std;
 
 
